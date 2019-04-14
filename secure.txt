@@ -1,4 +1,0 @@
-linux基本防护
-http://note.youdao.com/noteshare?id=b21041a16c8ba76f8370d9665d148ac8&sub=WEBb0cda2d9c68839e1daad4021adb7cc8a
-用户切换与提权
-http://note.youdao.com/noteshare?id=d3641ae588ec56a8ccc95d56ac0f75d6&sub=WEB24ca2495ad6f67ef263123c66512b868
